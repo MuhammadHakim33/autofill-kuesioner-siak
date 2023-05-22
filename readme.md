@@ -7,8 +7,8 @@ Autofill kuesioner untuk siak universitas.
 
 ## Instalasi
 1. Instal nodejs
-2. Jalankan ```npm i``` untuk menginstal 
-3. Clone atau download repo ini dependencies
+2. Jalankan ```npm i``` untuk menginstal dependencies
+3. Clone atau download repo ini 
 4. Buat file ```.env``` dengan menggunakan template dari ```.env.sample```
     - ```SIAK_USERNAME``` adalah username akun siak
     - ```SIAK_PASSWORD``` adalah password akun siak
