@@ -1,0 +1,17 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "dotenv": "^16.0.3",
+    "puppeteer": "^20.2.0"
+  }
+}
